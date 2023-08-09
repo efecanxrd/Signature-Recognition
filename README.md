@@ -17,4 +17,4 @@ This function shifts the template image over the source image and calculates a s
 The result of template matching is a 2D array of similarity values. The code uses the np.where function to find all locations in this sequence where the similarity value is greater than or equal to the correlation value.
 </h4>
 
-<img src="https://i.hizliresim.com/27qdk2b.png">
+<img src="https://i.hizliresim.com/mp064yd.jpeg">
